@@ -1,6 +1,7 @@
 # anyangshare
 
 "일하기싫은데 디자이너있어서 해야함"
+"안양대학교 근처 맛집 공유 프로젝트"
 
 ## Getting Started
 
